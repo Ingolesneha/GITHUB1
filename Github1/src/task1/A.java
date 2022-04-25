@@ -14,6 +14,10 @@ public class A {
 	 {
 		 System.out.println("hi m3");
 	 }
+	public void m4()
+	 {
+		 System.out.println("hi m4");
+	 }
 	public static void main(String[] args) {
 		System.out.println("hi");
 		A a=new A();
