@@ -26,6 +26,8 @@ public class B {
 			System.out.println("hi");
 			B a=new B();
 			a.m1();
+			a.m2();
+			a.m3();
 
 		}
 
