@@ -24,7 +24,7 @@ public class B {
 		public static void main(String[] args) 
 		{
 			System.out.println("hi");
-			A a=new A();
+			B a=new B();
 			a.m1();
 
 		}
